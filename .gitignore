@@ -1,0 +1,11 @@
+.env
+venv/
+full_codebase_preview.txt
+app/__pycache__/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+data/

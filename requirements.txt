@@ -1,0 +1,5 @@
+google.genai
+GitPython
+python-dotenv
+streamlit 
+streamlit-mermaid
